@@ -15,16 +15,16 @@ This is your persistent memory across Claude Code sessions. Feed this file to Cl
 ## Pre-Build Setup
 
 ### Phase 0 -- Project Scaffolding
-- [ ] Initialise Next.js 14 project with TypeScript and Tailwind CSS in `med-spa-demo` folder
-- [ ] Install dependencies: framer-motion, lucide-react
-- [ ] Configure Google Fonts: Cormorant Garamond + Inter via next/font
-- [ ] Set up Tailwind config with custom colour palette (see build_brief.md)
-- [ ] Create GitHub repo `med-spa-demo` under SubZero139
-- [ ] Push initial commit to `main`
-- [ ] Create `dev` branch, switch to it
-- [ ] Add `github_issues_guide.md` to repo
-- [ ] Commit build_brief.md and implementation_plan.md to repo
-- [ ] Verify `npm run dev` runs without errors
+- [x] Initialise Next.js 14 project with TypeScript and Tailwind CSS in `med-spa-demo` folder
+- [x] Install dependencies: framer-motion, lucide-react
+- [x] Configure Google Fonts: Cormorant Garamond + Inter via next/font
+- [x] Set up Tailwind config with custom colour palette (see build_brief.md)
+- [x] Create GitHub repo `med-spa-demo` under SubZero139
+- [x] Push initial commit to `main`
+- [x] Create `dev` branch, switch to it
+- [x] Add `github_issues_guide.md` to repo
+- [x] Commit build_brief.md and implementation_plan.md to repo
+- [x] Verify `npm run dev` runs without errors
 
 **Acceptance: Empty Next.js project running on localhost with correct fonts loading and Tailwind configured with custom palette. Both docs committed. Working on dev branch.**
 
@@ -193,7 +193,7 @@ Track what was completed in each session.
 
 | Date | Phase | What Was Done | Committed |
 |------|-------|--------------|-----------|
-| | | | |
+| 2026-04-06 | Phase 0 | Project scaffolding: Next.js 14 + TS + Tailwind, fonts, colors, GitHub repo, dev branch | Yes |
 
 ---
 
