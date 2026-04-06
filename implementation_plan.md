@@ -33,21 +33,21 @@ This is your persistent memory across Claude Code sessions. Feed this file to Cl
 ## Page Build (One Phase at a Time)
 
 ### Phase 1 -- Navigation + Hero
-- [ ] Build sticky navbar: transparent on hero, solid on scroll (#0F0F0F with 80% opacity backdrop blur)
-- [ ] Logo: "VELOUR" text, uppercase, letter-spaced, dark purple (#7B5EA7)
-- [ ] Nav links: Services, About, Results, Contact (anchor links to page sections)
-- [ ] CTA pill button: "Book Consultation" in bright purple (#9B7EC8)
-- [ ] Mobile hamburger menu
-- [ ] Hero section: full-bleed background image with dark gradient overlay
-- [ ] Source hero image from Unsplash (search: "luxury spa interior" or "aesthetic treatment room")
-- [ ] Download, convert to WebP, place in /public
-- [ ] Ken Burns slow zoom animation on hero image (CSS or Framer Motion)
-- [ ] Hero headline: "Where science meets refinement" (Cormorant Garamond, 56-64px)
-- [ ] Hero subheadline: "Board-certified aesthetics in Beverly Hills..." (Inter, 18px, #A39E98)
-- [ ] Dual CTAs: "Book Your Consultation" (filled) + "View Treatments" (outline)
-- [ ] Hero min-height: 100vh desktop, 80vh mobile
-- [ ] Voice agent placeholder button in hero: "Speak to Our AI Concierge" (styled but non-functional)
-- [ ] Test at 375px, 768px, 1440px
+- [x] Build sticky navbar: transparent on hero, solid on scroll (#0F0F0F with 80% opacity backdrop blur)
+- [x] Logo: "VELOUR" text, uppercase, letter-spaced, dark purple (#7B5EA7)
+- [x] Nav links: Services, About, Results, Contact (anchor links to page sections)
+- [x] CTA pill button: "Book Consultation" in bright purple (#9B7EC8)
+- [x] Mobile hamburger menu
+- [x] Hero section: full-bleed background image with dark gradient overlay
+- [x] Source hero image from Unsplash (search: "luxury spa interior" or "aesthetic treatment room")
+- [x] Download, convert to WebP, place in /public
+- [x] Ken Burns slow zoom animation on hero image (CSS or Framer Motion)
+- [x] Hero headline: "Where science meets refinement" (Cormorant Garamond, 56-64px)
+- [x] Hero subheadline: "Board-certified aesthetics in Beverly Hills..." (Inter, 18px, #A39E98)
+- [x] Dual CTAs: "Book Your Consultation" (filled) + "View Treatments" (outline)
+- [x] Hero min-height: 100vh desktop, 80vh mobile
+- [x] Voice agent placeholder button in hero: "Speak to Our AI Concierge" (styled but non-functional)
+- [x] Test at 375px, 768px, 1440px
 
 **Acceptance: Hero looks stunning at all viewports. Nav transitions from transparent to solid on scroll. Image loads fast. CTAs visible above fold on mobile.**
 
@@ -194,6 +194,7 @@ Track what was completed in each session.
 | Date | Phase | What Was Done | Committed |
 |------|-------|--------------|-----------|
 | 2026-04-06 | Phase 0 | Project scaffolding: Next.js 14 + TS + Tailwind, fonts, colors, GitHub repo, dev branch | Yes |
+| 2026-04-06 | Phase 1 | Navigation + Hero: sticky navbar, mobile menu, hero with Ken Burns zoom, dual CTAs, voice agent placeholder | Yes |
 
 ---
 
